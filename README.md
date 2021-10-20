@@ -4,6 +4,9 @@ Datasets for Oct. 21 Workshop
 ### NCBI BLAST (most popular homology search program)
 https://blast.ncbi.nlm.nih.gov/Blast.cgi
 
+### ExPASy Translate (allows the translation of a nucleotide (DNA/RNA) sequence to a protein sequence)
+https://web.expasy.org/translate/
+
 ### HHblits (more sensitive than BLAST)
 https://toolkit.tuebingen.mpg.de/tools/hhblits
 
